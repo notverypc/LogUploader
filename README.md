@@ -26,3 +26,4 @@ To notify us when someone has run the LogUploader the policy has an additional s
 ## Nice to dos.. 
 - Make the shutdown codes "optional".
 - Add device url to slack notification.
+- Make Slack Notification avalible.
