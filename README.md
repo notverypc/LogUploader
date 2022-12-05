@@ -1,6 +1,7 @@
 LogUploader uploads required logs to JamfPro.
 
 Inspired greatly by this https://github.com/kc9wwh/logCollection 
+Serial Number and UUID thanks to https://gist.github.com/erikng/46646ff81e55b42e5cfc 
 
 I wanted to try and build this in python.
 
