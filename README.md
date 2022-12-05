@@ -1,9 +1,12 @@
 LogUploader uploads required logs to JamfPro.
 
 Inspired greatly by this https://github.com/kc9wwh/logCollection 
+
 I wanted to try and build this in python.
 
-Required: MacAdmins Python https://github.com/macadmins/python
+Requiredments:
+
+MacAdmins Python https://github.com/macadmins/python
 
 ## What does it do:
 As well as finding the required log files, it will also collect the shutdown codes for the last 72hrs.
@@ -22,5 +25,5 @@ To notify us when someone has run the LogUploader the policy has an additional s
 ![Slack_Not](https://user-images.githubusercontent.com/585423/205630526-f1b9cd26-49f5-4d2b-a516-99d51c076ae2.png)
 
 ## Nice to dos.. 
-Make the shutdown codes "optional".
-Add device url to slack notification.
+- Make the shutdown codes "optional".
+- Add device url to slack notification.
